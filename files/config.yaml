@@ -1,0 +1,4 @@
+bitbucket:
+  author: 'jenkins'
+  email: 'jenkins.tachyon@lowes.com'
+master_data_file: '/master-data/data.json'
